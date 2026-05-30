@@ -153,6 +153,10 @@ body {
 	color: var(--muted);
 }
 
+.txt-left {
+	text-align: left;
+}
+
 table {
 	width: 100%;
 	border-collapse: collapse;
@@ -195,6 +199,10 @@ a:hover {
 
 .x5 {
 	font-size: 5em;
+}
+
+.x2 {
+	font-size: 2em;
 }
 
 a.link {
